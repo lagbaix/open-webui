@@ -56,6 +56,8 @@ google-generativeai==0.8.5
 langchain==0.3.27
 langchain-community==0.3.29
 
+datasets==3.6.0
+
 fake-useragent==2.2.0
 chromadb==1.0.20
 opensearch-py==2.8.0
