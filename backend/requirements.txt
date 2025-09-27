@@ -71,7 +71,7 @@ av==14.0.1 # Caution: Set due to FATAL FIPS SELFTEST FAILURE, see discussion htt
 transformers
 sentence-transformers==5.1.1
 accelerate
-pyarrow==20.0.0 # fix: pin pyarrow version to 20 for rpi compatibility #15897
+pyarrow==21.0.0 # fix: pin pyarrow version to 20 for rpi compatibility #15897
 einops==0.8.1 
 
 colbert-ai==0.2.21
